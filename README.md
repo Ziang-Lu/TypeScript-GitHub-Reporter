@@ -22,6 +22,6 @@ So we define a new `script` in `package.json` for quick run:
 To run the project, simply use the command-line, and pass in the GitHub username:
 
 ```shell
-$ npm start Ziang-Lu
+$ npm start <Your GitHub username>
 ```
 
