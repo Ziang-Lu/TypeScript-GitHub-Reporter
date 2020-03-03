@@ -1,3 +1,5 @@
+This repo demos the basic usage of TypeScript as building a simple application.
+
 # GitHub Reporter Mini-Project
 
 This mini-project accepts a GitHub username as a command-line argument, internally makes call to GitHub API, and displays the user information as well as that user's repos.
